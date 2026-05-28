@@ -1,0 +1,10 @@
+metric,value
+observations,123117.0
+original_columns_total,85.0
+derived_columns_added,2.0
+analyzed_columns_total,87.0
+numeric_features,81.0
+categorical_features,5.0
+missing_values_total,0.0
+attack_share,0.8984137040376228
+normal_share,0.10158629596237723

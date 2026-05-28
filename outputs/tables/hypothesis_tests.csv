@@ -1,0 +1,3 @@
+test_name,feature,null_hypothesis,statistic,p_value,decision_alpha_0_05,group_1_mean,group_2_mean,effect_size_cohens_d
+Welch t-test,payload_bytes_per_second,mean attack traffic equals mean normal traffic,337.474224880471,0.0,reject,45695073.646362856,3656.2040505734385,1.0705436429750446
+D'Agostino K^2 normality test,flow_duration,normal traffic follows a normal distribution,14454.658629306614,0.0,reject,27.3927121928,,
